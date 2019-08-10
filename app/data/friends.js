@@ -1,7 +1,7 @@
 var friends = [
     {
       name: "Bad Bunny",
-      photo: "./images/bad-bunny.jpg",
+      photo: "../public/images/bad-bunny.jpg",
       scores: [
         1,
         4,
@@ -17,7 +17,7 @@ var friends = [
     },
     {
       name: "Bassnectar",
-      photo: "./images/Bassnectar.jpg",
+      photo: "../public/images/Bassnectar.jpg",
       scores: [
         3,
         5,
@@ -49,7 +49,7 @@ var friends = [
     },
     {
       name: "Dwayne 'The Rock' Johnson",
-      photo: "./images/TheRock.jpg",
+      photo: "../public/images/TheRock.jpg",
       scores: [
         5,
         3,
@@ -65,7 +65,7 @@ var friends = [
     },
     {
       name: "John Cena",
-      photo: "./images/JohnCena.jpg",
+      photo: "../public/images/JohnCena.jpg",
       scores: [
         5,
         2,
